@@ -22,3 +22,7 @@ body
 .montitre2 {
     color:black;
 }
+/* head*/
+header{
+    background:red;
+}
